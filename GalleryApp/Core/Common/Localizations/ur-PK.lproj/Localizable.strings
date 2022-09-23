@@ -1,0 +1,22 @@
+/*
+  Localizable.strings
+  JazzCash
+
+  Created by Medhat ali on 6/9/20.
+  Copyright © 2020 Medhat ali. All rights reserved.
+*/
+
+"changeLanguage" = "تغير اللغة";
+
+"okBtnTitle" = "OK";
+"server_error_Message" = "The requested service is currently not available. Please try again in a few minutes, we apologize for the inconvenience.";
+"internetErrorMsg" = "You currently do not have access to internet. Please connect to the internet and try again.";
+
+//Send Money
+"contactsPermissionErrorMessage" = "To avail this fetaure, Go to Settings -> JazzCash -> Select Contacts while using the app or select Always.";
+"nonJazzCashMessage" = "The account of the receiver does not exist. Please send an invite to the receiver to join JazzCash";
+
+//Home Big Header
+"selectLanguage" = "UPlease select your languageU";
+"restart1" = "UYou have changed the language to ";
+"restart2" = " the app will now send you to the beginingU";

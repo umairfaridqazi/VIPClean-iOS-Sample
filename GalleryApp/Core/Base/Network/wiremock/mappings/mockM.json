@@ -1,0 +1,19 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/mwallet-rest/api/myDocuments/getEid",
+        "headers": {
+            "Content-Type": {
+                "contains": "application/json"
+            }
+        }
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "myDocuments-GetEid.json",
+        "headers": {
+            "Content-Type": "application/json",
+            "Cache-Control": "max-age=86400"
+        }
+    }
+}
